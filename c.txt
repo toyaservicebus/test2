@@ -1,0 +1,2 @@
+sudo yum install lsof
+lsof -wni tcp:24224
